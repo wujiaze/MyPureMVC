@@ -1,0 +1,6 @@
+D:\Desktop\PureMVC客户端框架\PureMVC_VS工程\PureMVC\bin\Debug\PureMVC.dll
+D:\Desktop\PureMVC客户端框架\PureMVC_VS工程\PureMVC\bin\Debug\PureMVC.pdb
+D:\Desktop\PureMVC客户端框架\PureMVC_VS工程\PureMVC\obj\Debug\PureMVC.csprojResolveAssemblyReference.cache
+D:\Desktop\PureMVC客户端框架\PureMVC_VS工程\PureMVC\obj\Debug\PureMVC.csproj.CoreCompileInputs.cache
+D:\Desktop\PureMVC客户端框架\PureMVC_VS工程\PureMVC\obj\Debug\PureMVC.dll
+D:\Desktop\PureMVC客户端框架\PureMVC_VS工程\PureMVC\obj\Debug\PureMVC.pdb
