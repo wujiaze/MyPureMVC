@@ -1,0 +1,22 @@
+﻿{
+"ConfigInfo":
+[
+  { "Key": "本配置文件说明,LogState 表示日志状态，可以选择修改为 Develop 开发模式，Speacial指定模式，Deploy部署模式，Stop停止模式" },
+
+{"Key":"LogDriveName",
+"Value":"F"},
+
+{"Key":"LogPath",
+"Value":"Log_FlappyBirdMVC"},
+
+{"Key":"LogState",
+"Value":"Develop"},
+
+{"Key":"LogMaxCapacity",
+"Value":"300"},
+
+{"Key":"LogBufferNumber",
+"Value":"10"}
+]
+}
+

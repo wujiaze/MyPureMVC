@@ -1,0 +1,13 @@
+﻿{
+"ConfigInfo":
+[
+{"Key":"Global_1",
+"Value":"我是页面"},
+{"Key":"Time",
+"Value":"时间"},
+{"Key":"Score",
+"Value":"分数"},
+{"Key":"HightestScore",
+"Value":"最高"}
+]
+}

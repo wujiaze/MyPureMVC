@@ -1,0 +1,20 @@
+﻿{
+  "ConfigInfo": [
+    {
+      "Key": "本配置文件说明",
+      "Value": "UI窗体路径"
+    },
+    {
+      "Key": "StartUIForm",
+      "Value": "UIFormPrefabs\\StartUIForm"
+    },
+    {
+      "Key": "GamePlayingUIForm",
+      "Value": "UIFormPrefabs\\GamePlayingUIForm"
+    },
+    {
+      "Key": "GameGuideUIForm",
+      "Value": "UIFormPrefabs\\GameGuideUIForm"
+    }
+  ]
+}

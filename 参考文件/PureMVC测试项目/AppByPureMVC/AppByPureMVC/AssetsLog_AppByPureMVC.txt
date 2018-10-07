@@ -1,0 +1,2284 @@
+Develop|10:43 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:43 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:43 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|10:43 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:43 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:43 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:43 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:43 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|10:48 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:48 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:48 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|10:48 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:48 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:48 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|10:50 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:50 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:50 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|10:50 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:50 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:50 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:50 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:50 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|10:53 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:53 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:53 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|10:53 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:53 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:53 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|10:53 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:53 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:53 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|10:53 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:53 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:53 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|10:54 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:54 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:54 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|10:54 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:54 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:54 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|8:10 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:10 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:10 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:10 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:10 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:10 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:10 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|8:10 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|8:49 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:49 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:49 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:49 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:49 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:49 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|8:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|9:54 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:54 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:54 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|9:54 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:54 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:54 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|8:13 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:13 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:13 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:13 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:13 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:13 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:29 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:29 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:29 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:29 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:29 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:37 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:37 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:37 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:37 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:37 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:47 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:47 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:47 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:47 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:47 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:48 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:48 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:48 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:48 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:48 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:49 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:49 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:49 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:49 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:49 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:51 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:51 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:51 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:51 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:51 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:52 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:52 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:52 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:52 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:52 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:52 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:52 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:53 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:53 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:53 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:53 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:53 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:53 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:53 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:54 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:54 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:54 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:54 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:54 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:54 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|8:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|8:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:58 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:58 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:58 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:58 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:58 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|8:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|8:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:58 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:58 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:58 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:58 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:58 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|8:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|8:59 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|8:59 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|8:59 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|8:59 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|8:59 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|8:59 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|8:59 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|8:59 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|9:10 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:10 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:10 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|9:10 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:10 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:10 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:10 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:10 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|9:18 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:18 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:18 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|9:18 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:18 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:18 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:18 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:18 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|9:20 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:20 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:20 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|9:20 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:20 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:20 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:20 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:20 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|9:22 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:22 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:22 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|9:22 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:22 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:22 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:22 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:22 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|5:54 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:54 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:54 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|5:54 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:54 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:54 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:54 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|6:02 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:02 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:02 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|6:02 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:02 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:02 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:02 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:02 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|6:03 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:03 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:03 PM|   AppByPureMVC.UserProxy/ UserProxy  1
+
+Develop|6:03 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:03 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:03 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:03 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:03 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:1
+
+Develop|6:04 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:04 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:04 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:04 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:04 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:04 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:07 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:07 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:07 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:07 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:07 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:07 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:07 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:07 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:09 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:09 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:09 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:09 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:09 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:09 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:09 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:09 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:15 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:15 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:15 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:15 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:15 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:15 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:15 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:15 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:25 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:25 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:25 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:25 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:25 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:25 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:25 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:25 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:26 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:26 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:26 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:26 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:26 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:26 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:26 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:26 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:29 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:29 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:29 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:29 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:29 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:29 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:29 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:29 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:31 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:31 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:31 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:31 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:31 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:31 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:32 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:32 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:32 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:32 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:32 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:32 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:32 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:32 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:33 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:33 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:33 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:33 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:33 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:33 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:33 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:33 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:36 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:36 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:36 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:36 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:36 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:36 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:45 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:45 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:45 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:45 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:45 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:45 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:46 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:46 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:46 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:46 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:46 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:46 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:46 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:46 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:49 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:49 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:49 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:49 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:49 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:49 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:49 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:49 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:49 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:49 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:49 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:49 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:50 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:50 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:50 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:50 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:50 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:50 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:50 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:50 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:53 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:53 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:53 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:53 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:53 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:53 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:56 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:56 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:56 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|6:56 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:56 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:56 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:56 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:56 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|7:01 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|7:01 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|7:01 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|7:01 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|7:01 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|7:01 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|7:01 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|7:01 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|7:02 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|7:02 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|7:02 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|7:02 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|7:02 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|7:02 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|7:02 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|7:02 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|7:18 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|7:18 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|7:18 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|7:18 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|7:18 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|7:18 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|7:18 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|7:18 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|7:19 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|7:19 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|7:19 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|7:19 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|7:19 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|7:19 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|7:19 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|7:19 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|7:20 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|7:20 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|7:20 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|7:20 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|7:20 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|7:20 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|7:20 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|7:20 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|7:23 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|7:23 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|7:23 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|7:23 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|7:23 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|7:23 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|7:23 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|7:23 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:01 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:01 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:01 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:01 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:01 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:01 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:01 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:01 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:03 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:03 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:03 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:03 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:03 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:03 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:03 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:03 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:04 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:04 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:04 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:04 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:04 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:04 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:04 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:04 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:04 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:04 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:04 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:04 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:06 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:06 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:06 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:06 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:06 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:06 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:06 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:06 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:08 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:08 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:08 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:08 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:08 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:08 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:12 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:12 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:12 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:12 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:12 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:12 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:12 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:12 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:12 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:12 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:12 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:12 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:17 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:17 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:17 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:17 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:17 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:17 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:17 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:17 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:17 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:17 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:17 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:17 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:17 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:17 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:17 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:17 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:18 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:18 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:18 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:18 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:18 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:18 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:18 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:18 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:19 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:19 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:19 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:19 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:19 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:19 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:19 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:19 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:44 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:44 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:44 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:44 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:44 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:44 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:44 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:44 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:46 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:46 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:46 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:46 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:46 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:46 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:46 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:46 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:48 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:48 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:48 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:48 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:48 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:48 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:48 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:48 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:48 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:48 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:48 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:48 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:55 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:55 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:55 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:55 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:55 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:55 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:55 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:55 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:57 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:57 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:57 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:57 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:57 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:57 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:57 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:57 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:58 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:58 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:58 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:58 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:58 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:59 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:59 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:59 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|9:59 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:59 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:59 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:59 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:59 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:01 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:01 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:01 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|10:01 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:01 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:01 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:01 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:01 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:03 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:03 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:03 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|10:03 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:03 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:03 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:03 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:03 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:08 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:08 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:08 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|10:08 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:08 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:08 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:12 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:12 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:12 PM|   AppByPureMVC.UserProxy/ UserProxy  2
+
+Develop|10:12 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:12 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:12 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:22 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:22 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:22 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:22 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:22 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:22 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:22 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:32 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:32 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:32 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:32 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:32 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:32 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:32 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:36 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:36 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:36 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:36 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:36 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:45 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:45 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:45 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:45 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:45 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:49 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:49 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:49 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:49 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:49 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|11:00 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|11:00 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:00 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:00 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:00 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|11:00 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|11:00 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:37 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:37 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:37 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:37 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:37 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:37 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:37 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:04 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:04 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:04 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:04 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|1:04 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:04 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:12 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:12 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:12 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:12 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|1:12 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:12 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:13 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:13 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:13 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:13 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|1:13 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:13 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:13 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:24 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:24 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:24 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:24 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:24 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:24 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:24 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|6:25 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|6:25 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|6:25 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|6:25 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|6:25 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|6:25 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|6:25 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|7:46 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|7:46 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|7:46 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|7:46 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|7:46 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|7:46 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|7:46 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|9:02 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|9:02 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|9:05 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|9:05 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|9:08 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|9:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|9:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:34 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:34 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:34 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:34 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:34 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:34 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:34 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:35 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:35 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:35 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:35 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:36 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:36 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:38 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:38 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:38 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:38 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:38 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:38 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|11:04 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|11:05 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:05 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:05 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:05 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|11:05 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|11:05 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|11:05 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|11:05 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:05 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:05 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:05 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|11:05 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|11:05 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|11:06 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|11:09 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:09 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:09 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:09 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:09 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:09 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:09 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|11:09 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|11:09 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|11:09 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|11:09 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:09 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:09 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:09 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|11:09 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|11:09 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|11:10 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|11:10 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:10 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:10 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:14 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:14 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:14 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:14 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|11:14 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|11:14 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|11:17 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|11:18 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|11:18 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|11:18 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|11:18 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|11:18 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|11:18 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:27 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:27 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:27 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:27 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:27 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:27 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:27 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:30 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:30 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:30 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:30 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:31 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:31 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:31 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:31 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:31 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:31 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:31 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:31 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:31 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:32 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:32 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:32 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:32 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:33 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:33 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:33 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:33 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:33 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:33 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:33 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:35 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:35 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:35 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:35 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:35 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:35 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:36 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:37 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:37 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:37 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:37 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:38 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:38 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:38 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:41 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:41 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:41 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:41 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:41 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:41 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:41 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:42 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|12:42 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|12:42 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|12:43 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:44 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:44 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:46 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:47 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:47 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:47 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:48 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:48 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:48 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|12:50 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:51 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:53 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:53 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:53 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:54 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:54 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:55 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:55 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:56 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|12:56 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:56 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:58 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|12:58 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|12:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:00 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:00 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:00 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:01 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:01 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:04 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:05 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:05 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:05 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:07 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:07 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:08 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:08 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:08 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:08 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:08 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:08 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:08 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:08 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:08 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:08 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:08 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:09 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:09 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:09 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:09 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:09 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:09 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:39 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:41 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:41 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:41 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:41 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:41 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:42 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:44 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:44 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:44 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:44 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:44 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:44 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:45 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:45 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:45 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:45 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:45 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:45 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:45 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:45 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:46 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:47 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:47 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:47 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:47 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:47 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:47 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:48 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:48 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:48 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:48 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:48 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:49 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:49 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:49 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:49 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:49 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:50 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:50 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:50 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:50 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:50 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:50 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:51 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:51 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:51 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|1:51 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|1:51 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|1:51 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:52 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:52 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:53 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:53 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:53 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:54 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:54 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:54 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:54 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:55 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:55 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:55 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:56 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:56 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:57 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:57 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:57 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|1:58 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|1:58 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|1:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:00 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:00 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:00 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:01 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:01 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:01 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:02 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:02 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:02 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:03 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:03 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:04 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:04 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:04 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:04 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:05 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:05 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:06 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:07 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:07 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:07 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:07 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:08 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:08 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:08 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:08 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:09 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:09 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:09 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:09 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:09 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:09 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:09 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:09 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:15 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:15 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:15 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:16 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:16 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:16 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:17 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:17 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:18 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:18 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:18 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:18 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:19 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:19 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:19 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:19 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:19 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:20 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:20 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:23 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:23 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:24 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:25 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:25 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:25 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:26 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:26 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:26 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:27 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:27 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:28 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:34 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:39 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:55 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:55 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:55 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:59 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|3:00 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|3:00 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|3:00 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|3:00 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|3:00 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|3:00 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|3:00 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|3:00 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|3:37 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|3:37 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|3:37 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|3:37 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|3:37 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|3:37 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|3:37 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|3:37 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|3:37 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|3:38 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|3:38 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|3:38 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|3:39 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|3:39 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|3:39 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|3:40 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|3:40 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|3:40 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|3:40 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|3:40 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|3:40 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|3:40 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|3:40 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|3:40 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|3:45 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|3:59 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|3:59 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|4:31 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|4:31 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|4:31 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|4:31 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|4:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|4:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|4:51 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|4:51 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|4:51 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|4:51 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|4:51 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|4:51 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|4:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|4:58 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|4:58 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|4:58 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|4:58 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|4:58 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|4:58 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|4:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|4:58 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|5:24 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:24 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:24 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:24 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:24 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:24 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:25 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:25 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:25 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:25 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:25 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:25 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:25 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|5:30 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:30 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:30 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:30 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|5:30 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:30 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:30 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:30 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|5:30 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:30 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:30 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:30 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:30 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|5:36 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:36 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:36 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:36 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:36 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:36 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|5:42 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:42 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:42 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:42 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:42 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:42 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:42 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|5:53 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|5:53 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|5:53 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|5:53 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|5:53 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|5:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|5:53 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|10:19 AM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|10:19 AM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|10:19 AM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|10:19 AM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|10:19 AM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|10:19 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|10:19 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+

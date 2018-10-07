@@ -1,0 +1,25 @@
+﻿{
+"ConfigInfo":
+[
+  { "Key": "本配置文件说明,LogState 表示日志状态，可以选择修改为 Develop 开发模式，Speacial指定模式，Deploy部署模式，Stop停止模式" },
+
+{"Key":"注释",
+"Value":"windows： Application.dataPath 移动端:Application.persistentDataPath这个 F盘，一般都用不到"},
+
+{"Key":"LogDriveName",
+"Value":"F"},
+
+{"Key":"LogPath",
+"Value":"Log_AppByPureMVC"},
+
+{"Key":"LogState",
+"Value":"Develop"},
+
+{"Key":"LogMaxCapacity",
+"Value":"300"},
+
+{"Key":"LogBufferNumber",
+"Value":"1"}
+]
+}
+
