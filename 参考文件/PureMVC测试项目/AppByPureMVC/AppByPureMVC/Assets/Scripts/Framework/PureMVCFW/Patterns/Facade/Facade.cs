@@ -50,7 +50,6 @@ namespace PureMVC.Patterns
             InitializeModel();
             InitializeController();
             InitializeView();
-            
 	    }
 
 	    protected virtual void InitializeModel()
@@ -58,16 +57,17 @@ namespace PureMVC.Patterns
 	        if (m_model != null) return;
 	        m_model = Model.Instance;
 	    }
-	    protected virtual void InitializeView()
-	    {
-	        if (m_view != null) return;
-	        m_view = View.Instance;
-	    }
-        protected virtual void InitializeController()
+	    protected virtual void InitializeController()
 	    {
 	        if (m_controller != null) return;
 	        m_controller = Controller.Instance;
 	    }
+        protected virtual void InitializeView()
+	    {
+	        if (m_view != null) return;
+	        m_view = View.Instance;
+	    }
+       
 	   
 
 

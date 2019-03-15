@@ -30,6 +30,7 @@ namespace AppByPureMVC
             // 启动框架 注册了所有的代理类，消息
             ApplicationFacade appFacade =  ApplicationFacade.Instance as ApplicationFacade;
 
+
             // 动态添加脚本组件
             AddGameObjectScripts();
             if (appFacade != null && userEmpInfo != null)

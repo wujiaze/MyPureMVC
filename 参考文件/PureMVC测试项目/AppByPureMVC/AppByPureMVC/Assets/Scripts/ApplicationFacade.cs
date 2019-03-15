@@ -61,6 +61,15 @@ namespace AppByPureMVC
 	        base.InitializeModel();
             RegisterProxy(new UserProxy());
 	    }
+	    /// <summary>
+	    /// 注册 控制层 实例
+	    /// 生命周期：命令是长期存在的，除非调用删除命令方法，但是命令每执行一次，就会创建一次命令的实例，这个实例在执行完命令就销毁了
+	    /// </summary>
+	    protected override void InitializeController()
+	    {
+	        base.InitializeController();
+	        RegisterCommand(Proconst.COM_INITMEADIATOR, typeof(StartUpApplication_Command));
+	    }
         /// <summary>
         /// 注册 视图层实例
         /// 视图层是长期存在的，除非调用删除视图方法，并没有创建实例，（这很正常，因为视图层本身就应该是单个实例）
@@ -71,15 +80,7 @@ namespace AppByPureMVC
 	        RegisterMediator(new UserListMediator());
             RegisterMediator(new UserFormMediator());
 	    }
-        /// <summary>
-        /// 注册 控制层 实例
-        /// 生命周期：命令是长期存在的，除非调用删除命令方法，但是命令每执行一次，就会创建一次命令的实例，这个实例在执行完命令就销毁了
-        /// </summary>
-        protected override void InitializeController()
-	    {
-	        base.InitializeController();
-            RegisterCommand(Proconst.COM_INITMEADIATOR,typeof(StartUpApplication_Command));
-        }
+       
         
 	}
 }

@@ -2282,3 +2282,31 @@ Develop|10:19 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator()
 
 Develop|10:19 AM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
 
+Develop|2:07 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:08 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:08 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:08 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|2:08 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|2:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|2:08 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
+Develop|2:11 PM|   AppByPureMVC.GameStart/ Awake() 
+
+Develop|2:24 PM|   AppByPureMVC.UserProxy/ UserProxy 构造 
+
+Develop|2:26 PM|   AppByPureMVC.UserListMediator/ UserListMediator() 
+
+Develop|2:31 PM|   AppByPureMVC.ApplicationFacade/ ApplicationFacade() 
+
+Develop|2:31 PM|   AppByPureMVC.StartUpApplication_Command/ Execute() 
+
+Develop|2:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() 
+
+Develop|2:31 PM|   AppByPureMVC.UserListMediator/ InitUserListMediator() count:2
+
